@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://api.88lin.eu.org/:match*"
+      "destination": "https://api.yyyy.gay/:match*"
     }
   ]
 }
