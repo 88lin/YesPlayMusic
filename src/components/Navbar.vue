@@ -158,7 +158,7 @@ export default {
       this.$router.push({ name: 'settings' });
     },
     toGitHub() {
-      window.open('https://yyyy.gay');
+      window.open('https://aaax.me');
     },
     toLogin() {
       if (process.env.IS_ELECTRON === true) {
