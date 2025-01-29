@@ -158,7 +158,7 @@ export default {
       this.$router.push({ name: 'settings' });
     },
     toGitHub() {
-      window.open('https://github.com/qier222/YesPlayMusic');
+      window.open('https://aaax.me');
     },
     toLogin() {
       if (process.env.IS_ELECTRON === true) {
